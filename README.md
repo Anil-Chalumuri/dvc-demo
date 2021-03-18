@@ -28,4 +28,6 @@ git push origin main
 
 
 python src/get_data.py
+
+
 dvc repro
